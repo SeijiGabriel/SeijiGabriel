@@ -23,11 +23,10 @@ ___
 
 ### Contato ✉️
 ___
-
 [![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](gabrielkanda@outlook.com)<br/>
-<br/>
+<br/> <h2>gabrielkanda@outlook.com</h2>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielsskanda@gmail.com)<br/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielsskanda@gmail.com)<br/><h2>gabrielsskanda@gmail.com</h2>
 ___
 
 
