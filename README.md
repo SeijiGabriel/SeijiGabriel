@@ -33,7 +33,7 @@ ___
 ## <img src="https://media.tenor.com/Rc1GWDr71WIAAAAC/psyduck.gif" width= 8%>Um pouco sobre mim
 
 
-<p>Gosto de conhecer pessoas novas, ouvir música e jogar vídeo-game nas horas vagas.<br/>Sou estudante de tecnologia atualmente trilhando o front-end mas posteriormente gostaria de aprender sobre segurança digital e A.I.<p/>
+<p>Gosto de ouvir música, praticar exercícios físicos e jogar vídeo-game nas horas vagas.<br/>Sou estudante de tecnologia atualmente trilhando a área de front-end mas posteriormente gostaria de aprender sobre segurança digital e inteligência artificial. Estou cursando Bacharelado em Ciência da computação na faculdade Cruzeiro do Sul e ampliando meus conhecimentos com a Alura.<p/>
 
 <img src="https://media.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="pixel art nigth city" margin-top= 100px >
 
