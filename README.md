@@ -8,7 +8,7 @@ ___
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/gabriel.kanda)
 [![VitriniDev](https://img.shields.io/badge/Vitrine.Dev-UP-green.svg?style=for-the-badge)](https://cursos.alura.com.br/vitrinedev/gabrielkanda)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=SeijiGabriel&show_icons=true&theme=tokyonight)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=SeijiGabriel&show_icons=true&theme=gruvbox)
 
 ### Tecnologias sendo utilizadas atualmente
 ___
